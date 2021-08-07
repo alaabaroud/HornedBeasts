@@ -37,6 +37,7 @@ class Main extends React.Component {
         <option value={100}>Hundred</option>
     </Form.Control>
 </Form.Group>
+
 </Form>
             <Container>
             <Row>
